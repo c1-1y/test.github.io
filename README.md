@@ -44,3 +44,45 @@
 ## 📂 프로젝트 구조 예시
 
 
+---
+
+## 🌱 비즈니스 포인트
+
+- **정기 구독 모델**: 주간/월간 구독형 밀키트 배송  
+- **협업 모델**: 로컬 농가 및 셰프와의 제휴  
+- **데이터 기반 마케팅**: 구매 이력 분석을 통한 맞춤 추천  
+
+---
+
+## 💼 팀 구성
+
+| 역할 | 이름 | 담당 |
+|------|------|------|
+| 🧑‍💻 **Backend Developer** | 홍길동 | API 설계 및 데이터베이스 구축 |
+| 👩‍🎨 **Frontend Developer** | 김영희 | UI/UX, 반응형 웹 개발 |
+| 📈 **PM / 기획자** | 박민수 | 프로젝트 관리 및 서비스 기획 |
+| 📦 **Operations Manager** | 이지은 | 재고 및 공급망 관리 |
+
+---
+
+## 🧭 로드맵
+
+- [x] MVP (주문, 결제, 배송 시스템)
+- [x] 고객 리뷰 시스템 추가
+- [ ] 구독 서비스 론칭
+- [ ] AI 기반 추천 시스템 도입
+- [ ] 글로벌 버전 출시 (EN / JP)
+
+---
+
+## 💌 문의
+
+- 📧 Email: contact@mealkit.co.kr  
+- 🌐 Website: [https://mealkit.co.kr](https://mealkit.co.kr)  
+- 📱 Instagram: [@mealkit.official](https://instagram.com/mealkit.official)
+
+---
+
+> **© 2025 MealKit Inc.**  
+> 함께 만드는 새로운 식사 문화 🍴
+
